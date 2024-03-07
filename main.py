@@ -1,2 +1,3 @@
-print("pawan")
-print(5656)
+import heroes                       # heroes module
+
+print(heroes.gen())                 # generate random name
